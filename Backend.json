@@ -1,27 +1,27 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
+    "price": 1400
   },
   "daily2": {
-    "itemGrants": ["AthenaGlider:Glider_ID_109_StreetGoth"],
-    "price": 500
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
+    "price": 0
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_Reign_Beyond"],
+    "itemGrants": ["AthenaDance:EID_JumpStyleDance"],
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_271_Athena_Commando_F_SushiChef"],
+    "itemGrants": ["AthenaCharacter:CID_824_Athena_Commando_F_RaiderPink"],
     "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_RockGuitar"],
+    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
     "price": 1200
   },
   "featured1": {
